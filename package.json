@@ -1,0 +1,14 @@
+{
+  "name": "ui-kit",
+  "version": "0.1.0",
+  "description": "A reactive UI layer small enough for a single file: signals, computed, effects, hyperscript, a keyed list, events, a hash router and form binding. Zero runtime dependencies, no build step.",
+  "main": "ui-kit.js",
+  "scripts": {
+    "test": "node test-node.js && node test-todomvc.js"
+  },
+  "keywords": ["reactive", "signals", "hyperscript", "ui", "zero-dependency", "no-build"],
+  "license": "MIT",
+  "devDependencies": {
+    "jsdom": "^29.1.1"
+  }
+}
