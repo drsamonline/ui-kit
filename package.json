@@ -6,8 +6,15 @@
   "scripts": {
     "test": "node test-node.js && node test-todomvc.js"
   },
-  "keywords": ["reactive", "signals", "hyperscript", "ui", "zero-dependency", "no-build"],
-  "license": "MIT",
+  "keywords": [
+    "reactive",
+    "signals",
+    "hyperscript",
+    "ui",
+    "zero-dependency",
+    "no-build"
+  ],
+  "license": "PolyForm-Noncommercial-1.0.0",
   "devDependencies": {
     "jsdom": "^29.1.1"
   }
