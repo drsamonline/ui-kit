@@ -5,7 +5,7 @@
  * node_modules — the useful part of a framework in a couple of kilobytes.
  * (Shape after hyperapp, Vue 3's reactivity and Mithril; no code copied.)
  *
- * MIT License. (c) 2026 Dr Sohil Momin.
+ * PolyForm Noncommercial 1.0.0. (c) 2026 Dr Sohil Momin.
  */
 (function (root, factory) {
   if (typeof module === "object" && module.exports) module.exports = factory();
