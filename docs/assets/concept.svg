@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 180" role="img" aria-label="A diagram of what this kit does">
+  <rect width="320" height="180" rx="14" fill="none" stroke="#c9cfdd" stroke-width="1" opacity=".45"/>
+  <g fill="none" stroke="#a97b1e" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+<rect x="66" y="46" width="188" height="96" rx="8" stroke="#101728"/><path d="M66 72 h188 M126 72 v70" stroke="#101728" opacity=".5"/><rect x="80" y="84" width="34" height="10" rx="3" stroke="#101728" opacity=".6"/><rect x="80" y="102" width="34" height="10" rx="3" stroke="#101728" opacity=".6"/><rect x="140" y="84" width="98" height="44" rx="5" stroke="#101728" opacity=".6"/>
+  </g>
+</svg>
